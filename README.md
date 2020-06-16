@@ -1,5 +1,5 @@
 
-# This fork can by used with python 3.6
+# This fork Used To Generate Zernike Polynomials to train DL
 
 ## To test
 * mkdir /tmp/github/
